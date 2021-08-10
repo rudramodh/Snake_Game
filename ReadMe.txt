@@ -7,7 +7,9 @@ The user can play by using arrow keys or ‘w’ ‘a’ ‘s’ ‘d’ key. Ea
 You lose the game if the snake runs into itself or the borders of the game area. 
 As you consume more apples, the snake's speed increases, making it difficult for the user to complete the game.
 
+Demo
 
+![Snake-Demo](https://user-images.githubusercontent.com/64874475/128791771-31726be7-b7b1-461d-90cc-e4c5705e6139.gif)
 
 Classes: 
 I have two classes:
